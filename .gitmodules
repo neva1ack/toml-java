@@ -1,0 +1,3 @@
+[submodule "toml-java-native/tomlc99"]
+	path = toml-java-native/tomlc99
+	url = git@github.com:cktan/tomlc99.git

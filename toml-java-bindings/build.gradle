@@ -1,0 +1,6 @@
+plugins {
+    id 'java'
+}
+
+group 'io.github.neva1ack'
+version '0.1.0'

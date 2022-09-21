@@ -1,0 +1,4 @@
+rootProject.name = 'toml-java'
+include 'toml-java-bindings'
+include 'toml-java-native'
+
